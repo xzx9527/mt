@@ -5,21 +5,21 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 🇷🇺 俄罗斯🇷🇺, server: 46.29.165.153, port: 24024, type: ss, cipher: chacha20-ietf-poly1305, password: a3a979aa-3968-4bae-95a4-16335d1ca263}
+  - {name: 俄罗斯_ss, server: 46.29.165.153, port: 24024, type: ss, cipher: chacha20-ietf-poly1305, password: a3a979aa-3968-4bae-95a4-16335d1ca263}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇷🇺 俄罗斯🇷🇺
+      - 俄罗斯_ss
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇷🇺 俄罗斯🇷🇺
+      - 俄罗斯_ss
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -37,7 +37,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇷🇺 俄罗斯🇷🇺
+      - 俄罗斯_ss
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
