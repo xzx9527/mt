@@ -225,15 +225,15 @@ http://114.246.183.128:8888/rtp/239.3.1.43:8176
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="卫视频道",快乐垂钓
 http://114.246.183.128:8888/rtp/239.3.1.164:8001
 
-#/*湖南组*/#
+#/*山东组*/#
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
-http://118.254.200.104:8888/udp/239.76.245.243:1234
+http://119.165.136.194:6666/udp/239.253.254.153:8000
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
-http://118.254.200.104:8888/udp/239.76.245.241:1234
+http://119.165.136.194:6666/udp/239.253.254.152:8000
 
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="央视频道",CHC高清电影
-http://118.254.200.104:8888/udp/239.76.245.242:1234
+http://119.165.136.194:6666/udp/239.253.254.154:8000
 
 #/*四川组*/#
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="卫视频道",凤凰中文
