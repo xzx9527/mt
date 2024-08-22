@@ -237,22 +237,22 @@ http://119.165.136.194:6666/udp/239.253.254.154:8000
 
 #/*四川组*/#
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="卫视频道",凤凰中文
-http://171.217.35.179:8000/udp/239.93.1.9:2192
+http://118.113.53.194:8848/udp/239.93.1.9:2192
 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
-http://171.217.35.179:8000/udp/239.93.1.4:2191
+http://118.113.53.194:8848/udp/239.93.1.4:2191
 
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="卫视频道",星空卫视
-http://171.217.35.179:8000/udp/239.93.1.10:2193
+http://118.113.53.194:8848/udp/239.93.1.10:2193
 
 #EXTINF:-1 tvg-id="bestv" tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv.pngg" group-title="卫视频道",bestv
-http://171.217.35.179:8000/udp/239.93.0.105:5140
+http://118.113.53.194:8848/udp/239.93.0.105:5140
 
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视频道",风云剧场
-http://171.217.35.179:8000/udp/239.93.1.156:5140
+http://118.113.53.194:8848/udp/239.93.1.156:5140
 
 #EXTINF:-1 tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视频道",绚影4K
-http://171.217.35.179:8000/udp/239.93.42.33:5140
+http://118.113.53.194:8848/udp/239.93.42.33:5140
 
 #EXTINF:-1 tvg-id="少儿天地" tvg-name="少儿天地" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视频道",少儿天地
-http://171.217.35.179:8000/udp/239.93.42.34:5140
+http://118.113.53.194:8848/udp/239.93.42.34:5140
