@@ -225,7 +225,7 @@ http://114.252.228.69:9876/rtp/239.3.1.43:8176
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="卫视频道",快乐垂钓
 http://114.252.228.69:9876/rtp/239.3.1.164:8001
 
-#/*山东组*/#
+#/*山东组或者湖北组*/#
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
 http://27.19.208.231:4022/rtp/239.69.1.242:11094
 
@@ -235,24 +235,3 @@ http://27.19.208.231:4022/rtp/239.69.1.243:11100
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="央视频道",CHC高清电影
 http://27.19.208.231:4022/rtp/239.69.1.241:11088
 
-#/*四川组*/#
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="卫视频道",凤凰中文
-http://171.213.198.58:8888/udp/239.93.1.9:2192
-
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
-http://171.213.198.58:8888/udp/239.93.1.4:2191
-
-#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="卫视频道",星空卫视
-http://171.213.198.58:8888/udp/239.93.1.10:2193
-
-#EXTINF:-1 tvg-id="bestv" tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv.pngg" group-title="卫视频道",bestv
-http://171.213.198.58:8888/udp/239.93.0.105:5140
-
-#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视频道",风云剧场
-http://171.213.198.58:8888/udp/239.93.1.156:5140
-
-#EXTINF:-1 tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视频道",绚影4K
-http://171.213.198.58:8888/udp/239.93.42.33:5140
-
-#EXTINF:-1 tvg-id="少儿天地" tvg-name="少儿天地" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视频道",少儿天地
-http://171.213.198.58:8888/udp/239.93.42.34:5140
