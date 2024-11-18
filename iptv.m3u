@@ -69,9 +69,6 @@ http://114.243.106.35:4022/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="卫视频道",卡酷少儿
 http://114.243.106.35:4022/rtp/239.3.1.189:8000
 
-#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="卫视频道",爱上4K
-http://123.123.167.240:8000/rtp/239.3.1.236:2000
-
 #EXTINF:-1 tvg-id="4K超清" tvg-name="4K超清" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="卫视频道",4K超清
 http://114.243.106.35:4022/rtp/239.3.1.249:8001
 
