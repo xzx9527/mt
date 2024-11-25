@@ -154,21 +154,21 @@ http://221.196.110.173:8686/udp/225.1.1.213:5002
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="央视频道",CHC高清电影
 http://221.196.110.173:8686/udp/225.1.1.214:5002
 
-#EXTINF:-1 tvg-id="天津影视" tvg-name="天津影视" tvg-logo="https://live.fanmingming.com/tv/天津影视.png" group-title="卫视频道",天津卫视
+#EXTINF:-1 tvg-id="天津影视" tvg-name="天津影视" tvg-logo="https://live.fanmingming.com/tv/天津影视.png" group-title="卫视频道",天津影视
 http://221.196.110.173:8686/udp/225.1.1.149:5002
 
-#EXTINF:-1 tvg-id="天津少儿" tvg-name="天津少儿" tvg-logo="https://live.fanmingming.com/tv/天津少儿.png" group-title="卫视频道",天津卫视
+#EXTINF:-1 tvg-id="天津少儿" tvg-name="天津少儿" tvg-logo="https://live.fanmingming.com/tv/天津少儿.png" group-title="卫视频道",天津少儿
 http://221.196.110.173:8686/udp/225.1.1.125:5002
 
-#EXTINF:-1 tvg-id="天津都市" tvg-name="天津都市" tvg-logo="https://live.fanmingming.com/tv/天津都市.png" group-title="卫视频道",天津卫视
+#EXTINF:-1 tvg-id="天津都市" tvg-name="天津都市" tvg-logo="https://live.fanmingming.com/tv/天津都市.png" group-title="卫视频道",天津都市
 http://221.196.110.173:8686/udp/225.1.1.128:5002
 
-#EXTINF:-1 tvg-id="CCTV-风云剧场" tvg-name="CCTV-风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视频道",CCTV
+#EXTINF:-1 tvg-id="CCTV-风云剧场" tvg-name="CCTV-风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视频道",CCTV-风云剧场
 http://221.196.110.173:8686/udp/225.1.2.174:5002
 
-#EXTINF:-1 tvg-id="CCTV-第一剧场" tvg-name="CCTV-第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视频道",CCTV
+#EXTINF:-1 tvg-id="CCTV-第一剧场" tvg-name="CCTV-第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视频道",CCTV-第一剧场
 http://221.196.110.173:8686/udp/225.1.2.175:5002
 
-#EXTINF:-1 tvg-id="CCTV-怀旧剧场" tvg-name="CCTV-怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视频道",CCTV
+#EXTINF:-1 tvg-id="CCTV-怀旧剧场" tvg-name="CCTV-怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视频道",CCTV-怀旧剧场
 http://221.196.110.173:8686/udp/225.1.2.173:5002
 
